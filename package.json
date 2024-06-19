@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Vadym Prokopchuk",
   "license": "ISC",
   "devDependencies": {
     "@fancyapps/fancybox": "^3.5.7",
