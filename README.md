@@ -19,11 +19,11 @@ This project is a responsive e-commerce website built using Gulp, featuring auto
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gulp-start.git
+   git clone https://github.com/KindrakevychNatali/gulp_project.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd gulp-start
+   cd gulp_project
    ```
 3. Install dependencies:
    ```bash
